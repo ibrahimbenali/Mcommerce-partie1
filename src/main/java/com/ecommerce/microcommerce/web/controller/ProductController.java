@@ -26,7 +26,7 @@ public class ProductController {
 
     @Autowired
     private ProductDao productDao;
-
+//
 
     //Récupérer la liste des produits
 
